@@ -1,0 +1,28 @@
+{
+  "name": "postman",
+  "version": "1.0.0",
+  "description": "A mail app",
+  "main": "./src/server/index.js",
+  "scripts": {
+    "start": "node ./src/server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jassu225/postman.git"
+  },
+  "keywords": [
+    "email"
+  ],
+  "author": "jaswanthsaisattenapalli@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jassu225/postman/issues"
+  },
+  "homepage": "https://github.com/Jassu225/postman#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6"
+  }
+}
