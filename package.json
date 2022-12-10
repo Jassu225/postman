@@ -22,7 +22,7 @@
   "homepage": "https://github.com/Jassu225/postman#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-session": "^1.15.6"
   }
 }
